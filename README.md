@@ -6,4 +6,5 @@ Due to an accident, my original account @ChuishenX is no longer used.
 
 Chuishen Qiusha (吹神求杀) is my screen name. Learning in a foreign language School as a senior high student, I'm now the co-leader and president of Team [@OblivionOcean](https://github.com/OblivionOcean). I also have a [personal blog](https://chuishen.xyz) based on Hexo where I post my "work".
 
-<div align="center"><img align="right" src="https://github-readme-stats.xaoxuu.com/api?username=ChuishenX&count_private=true&show_icons=true" /><img align="right" src="https://github-readme-stats.xaoxuu.com/api?username=Chui-shen&count_private=true&show_icons=true" /></div>
+<div align="center"><img align="right" src="https://github-readme-stats.xaoxuu.com/api?username=ChuishenX&count_private=true&show_icons=true&include_orgs=true" />
+  <img align="right" src="https://github-readme-stats.xaoxuu.com/api?username=Chui-shen&count_private=true&show_icons=true&include_orgs=true" /></div>
