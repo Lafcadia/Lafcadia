@@ -9,5 +9,5 @@ Due to an accident with 2FA, my original account @ChuishenX is no longer used.
 
 Lafcadia is my screen name. Learning in a foreign language School as a senior high student, I'm now the co-leader and president of Team [@OblivionOcean](https://github.com/OblivionOcean). I also have a [personal blog](https://chuishen.xyz) based on Hexo where I post my "work".
 
-<div align="center"><img align="right" src="https://github-readme-stats.vercel.app/api?username=ChuishenX" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Lafcadia" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ChuishenX" />
+<img src="https://github-readme-stats.vercel.app/api?username=Lafcadia" /></div>
