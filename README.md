@@ -5,7 +5,9 @@
 
 (Please don't mind if my English is broken as English is my second language.)
 
-Due to an accident with 2FA, my original account [@ChuishenX](https://github.com/ChuishenX) is no longer used.
+Due to an accident with 2FA, my original account [@ChuishenX](https://github.com/ChuishenX/) is no longer used.
+
+My closest colleague would be [@Tutu](https://github.com/ye-tutu/) and [@Fgaoxing](https://github.com/Fgaoxing/).
 
 Lafcadia is my screen name. Learning in a foreign language School as a senior high student, I'm now the co-leader and president of Team [@OblivionOcean](https://github.com/OblivionOcean). I also have a [personal blog](https://chuishen.xyz) based on Hexo where I post my "work".
 
