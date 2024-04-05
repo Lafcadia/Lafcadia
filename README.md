@@ -17,6 +17,6 @@ E-mail: chuishenx@oblivionocean.top
 Private Matters: zzx0402zzx@foxmail.com
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChuishenX&rank_icon=percentile&count_private=true&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Lafcadia&rank_icon=percentile&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChuishenX&rank_icon=percentile&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lafcadia&rank_icon=percentile&count_private=true" />
 </div>
