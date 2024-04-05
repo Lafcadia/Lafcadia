@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&duration=3000&pause=500&color=00FF14&center=true&vCenter=true&multiline=true&random=false&width=435&height=80&lines=Learn+to+become+INVISIBLE.;I+am+who+that+isn't.)](https://git.io/typing-svg)
-
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&duration=3000&pause=500&color=66ccff&center=true&vCenter=true&multiline=true&random=false&width=435&height=80&lines=Learn+to+become+INVISIBLE.;I+am+who+that+isn't.)](https://git.io/typing-svg)
 ![Static Badge](https://img.shields.io/badge/Into-Oblivion-blue)
 ![Static Badge](https://img.shields.io/badge/Fitting-High_School-orange)
 
@@ -17,6 +17,6 @@ E-mail: chuishenx@oblivionocean.top
 Private Matters: zzx0402zzx@foxmail.com
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChuishenX&rank_icon=percentile&count_private=true&" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Lafcadia&rank_icon=percentile&count_private=true&" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChuishenX&rank_icon=percentile&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lafcadia&rank_icon=percentile&count_private=true" />
 </div>
