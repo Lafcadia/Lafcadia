@@ -3,6 +3,9 @@
 ![Static Badge](https://img.shields.io/badge/Into-Oblivion-blue)
 ![Static Badge](https://img.shields.io/badge/Fitting-High_School-orange)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lafcadia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ChuishenX)](https://github.com/ryo-ma/github-profile-trophy)
+
 (Please don't mind if my English is broken as English is my second language.)
 
 Due to an accident with 2FA, my original account [@ChuishenX](https://github.com/ChuishenX/) is no longer used.
