@@ -14,6 +14,7 @@ My closest colleague would be [@Tutu](https://github.com/zzhiro/) and [@Fgaoxing
 Lafcadia is my screen name. Learning in a foreign language School as a senior high student, I'm now the co-leader and president of Team [@OblivionOcean](https://github.com/OblivionOcean). I also have a [personal blog](https://chuishen.xyz) based on Hexo where I post my "work".
 
 E-mail: chuishenx@oblivionocean.top
+
 Private Matters: zzx0402zzx@foxmail.com
 
 <div align="center">
