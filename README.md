@@ -11,13 +11,15 @@ Due to an accident with 2FA, my original account [@ChuishenX](https://github.com
 
 My closest colleague would be [@Tutu](https://github.com/zzhiro/) and [@Fgaoxing](https://github.com/Fgaoxing/).
 
-Lafcadia is my screen name. Learning in a foreign language School as a senior high student, I'm now the co-leader and president of Team [@OblivionOcean](https://github.com/OblivionOcean). I also have a [personal blog](https://chuishen.xyz) based on Hexo where I post my "work".
+Lafcadia is my screen name. Learning in a foreign language School as a senior high student, I'm now the co-leader and president of Team [@OblivionOcean](https://github.com/OblivionOcean). I also have a [personal blog](https://chuishen.xyz) based on Hexo where I post my "work". I'm also openly bisexual.
 
 E-mail: chuishenx@oblivionocean.top
 
 Private Matters: zzx0402zzx@foxmail.com
 
+My Favoured License: MIT License & [LGBTQIA-LICENSE](https://github.com/mis1042/LGBTQIA-LICENSE).
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChuishenX&rank_icon=percentile&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Lafcadia&rank_icon=percentile&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChuishenX&rank_icon=percentile&count_private=true&" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lafcadia&rank_icon=percentile&count_private=true&" />
 </div>
