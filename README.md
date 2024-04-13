@@ -9,9 +9,9 @@
 
 Due to an accident with 2FA, my original account [@ChuishenX](https://github.com/ChuishenX/) is no longer used.
 
-My closest colleague would be [@Tutu](https://github.com/zzhiro/) and [@Fgaoxing](https://github.com/Fgaoxing/).
+My closest colleagues are [@Tutu](https://github.com/zzhiro/) and [@Fgaoxing](https://github.com/Fgaoxing/).
 
-Lafcadia is my screen name. Learning in a foreign language School as a senior high student, I'm now the co-leader and president of Team [@OblivionOcean](https://github.com/OblivionOcean). I also have a [personal blog](https://chuishen.xyz) based on Hexo where I post my "work". I'm also openly bisexual.
+Lafcadia is my screen name, taken from the legendary writer Lafcadio Hearn. Learning in a foreign language School as a senior high student, I'm now the co-leader and president of Team [@OblivionOcean](https://github.com/OblivionOcean). I also have a [personal blog](https://chuishen.xyz) based on Hexo where I post my "work". I'm also openly bisexual.
 
 E-mail: chuishenx@oblivionocean.top
 
