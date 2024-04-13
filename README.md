@@ -20,6 +20,6 @@ Private Matters: zzx0402zzx@foxmail.com
 My Favoured License: MIT License & [LGBTQIA-LICENSE](https://github.com/mis1042/LGBTQIA-LICENSE).
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChuishenX&rank_icon=percentile&count_private=true&include_orgs=true&" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Lafcadia&rank_icon=percentile&count_private=true&include_orgs=true&" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChuishenX&rank_icon=percentile&count_private=true&include_orgs=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lafcadia&rank_icon=percentile&count_private=true&include_orgs=true" />
 </div>
