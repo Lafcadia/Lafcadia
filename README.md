@@ -2,7 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/Into-Oblivion-blue)
 ![Static Badge](https://img.shields.io/badge/Fitting-High_School-orange)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lafcadia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lafcadia&)](https://github.com/ryo-ma/github-profile-trophy)
 
 (Please don't mind if my English is broken as English is my second language.)
 
@@ -19,6 +19,6 @@ Private Matters: zzx0402zzx@foxmail.com
 My Favoured License: MIT License & [LGBTQIA-LICENSE](https://github.com/mis1042/LGBTQIA-LICENSE).
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChuishenX&rank_icon=percentile&count_private=true&include_orgs=true&" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Lafcadia&rank_icon=percentile&count_private=true&include_orgs=true&" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChuishenX&rank_icon=percentile&count_private=true&" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lafcadia&rank_icon=percentile&count_private=true&" />
 </div>
