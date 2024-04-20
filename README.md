@@ -1,4 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&duration=3000&pause=500&color=66ccff&center=true&vCenter=true&multiline=true&random=false&width=435&height=80&lines=Learn+to+become+INVISIBLE.;I+am+who+that+isn't.)](https://git.io/typing-svg)
 ![Static Badge](https://img.shields.io/badge/Into-Oblivion-blue)
 ![Static Badge](https://img.shields.io/badge/Fitting-High_School-orange)
