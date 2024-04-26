@@ -1,3 +1,5 @@
+[English](https://github.com/Lafcadia/Lafcadia/blob/main/README.md)
+
 ## 👋 关于
 
 小人网名氿月 Lafcadia，目前在一所国际高中就读，是 [Team OblivionOcean](https://github.com/OblivionOcean) 的创始人、和现任社长。我一般会把我的日常发在[个人博客](https://chuishen.xyz)上。
