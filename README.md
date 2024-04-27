@@ -1,16 +1,17 @@
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Black+Ops+One&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&multiline=true&random=false&width=300&height=80&lines=Learn+to+become+INVISIBLE.;I+am+who+that+is+not.)](https://git.io/typing-svg)
 <br>
 ![Static Badge](https://img.shields.io/badge/Into-Oblivion-green)
 ![Static Badge](https://img.shields.io/badge/Killing-High_School-red)
 ![](https://komarev.com/ghpvc/?username=Lafcadia)
 
-<a href="https://github.com/Lafcadia/Lafcadia/blob/main/README.cn.md" target="_black">简体中文</a>
+<a href="https://github.com/Lafcadia/Lafcadia/blob/main/README.cn.md" target="_black">简体中文 (Simplified Chinese)</a>
 
 ## 👋 About Me
 
 (Please don't mind if my English is broken as English is my second language.)
 
-Lafcadia is my screen name (formerly ChuishenX, also known as Chuishen Qiusha ("吹神求杀")), taken from the legendary writer Lafcadio Hearn. Learning in a foreign language School as a senior high student, I'm now the co-leader and president of [Team OblivionOcean](https://github.com/OblivionOcean). I also have a [personal blog](https://chuishen.xyz) based on Hexo where I post my "work". I'm also openly bisexual.
+Lafcadia is my screen name (formerly ChuishenX, also known as Chuishen Qiusha ("吹神求杀")), taken from the legendary writer Lafcadio Hearn. Learning in a foreign language School as a senior high student, I'm now the co-leader and president of [Team OblivionOcean](https://github.com/OblivionOcean). I also have a [personal blog](https://chuishen.xyz) based on Hexo where I post my "work". I'm also openly bisexual. Most of my work is open-sourced and I published most of them on GitHub.
 
 Due to an accident with 2FA, my original account [@ChuishenX](https://github.com/ChuishenX/) is no longer used — however, most of the valuable content is transferred to this account.
 
