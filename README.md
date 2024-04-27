@@ -10,7 +10,7 @@
 
 (Please don't mind if my English is broken as English is my second language.)
 
-Lafcadia is my screen name (formerly ChuishenX, also known as Chuishen Qiusha ("吹神求杀")), taken from the legendary writer Lafcadio Hearn. Learning in a foreign language School as a senior high student, I'm now the co-leader and president of Team [@OblivionOcean](https://github.com/OblivionOcean). I also have a [personal blog](https://chuishen.xyz) based on Hexo where I post my "work". I'm also openly bisexual.
+Lafcadia is my screen name (formerly ChuishenX, also known as Chuishen Qiusha ("吹神求杀")), taken from the legendary writer Lafcadio Hearn. Learning in a foreign language School as a senior high student, I'm now the co-leader and president of [Team OblivionOcean](https://github.com/OblivionOcean). I also have a [personal blog](https://chuishen.xyz) based on Hexo where I post my "work". I'm also openly bisexual.
 
 Due to an accident with 2FA, my original account [@ChuishenX](https://github.com/ChuishenX/) is no longer used — however, most of the valuable content is transferred to this account.
 
