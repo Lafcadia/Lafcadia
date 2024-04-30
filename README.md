@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Black+Ops+One&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&multiline=true&random=false&width=300&height=80&lines=Learn+to+become+INVISIBLE.;I+am+who+that+is+not.)](https://git.io/typing-svg)
 <br>
 ![Static Badge](https://img.shields.io/badge/Into-Oblivion-green)
@@ -29,6 +28,11 @@ Love of My Life:
   - 💻 Programming
   - 🖊  Creative Writing
   - 🎵 Music of ZUN (Touhou Project)
+
+## 🛠 Team OblivionOcean
+[Team OblivionOcean](https://github.com/OblivionOcean) (also known as 玄云海 in Chinese), is a developer team founded by me and [Fgaoxing](https://github.com/Fgaoxing/) in 2022.
+
+We have created many wonderful projects such as [Xelsior](https://github.com/OblivionOcean/Xelsior) (formerly known as "NewPad")
 
 ## 🏆 GitHub Profile Trophy
 
