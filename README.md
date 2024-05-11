@@ -43,7 +43,7 @@ We have created many wonderful projects such as [Xelsior](https://github.com/Obl
 ## 🔢 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChuishenX&rank_icon=percentile&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Lafcadia&rank_icon=percentile&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lafcadia&hide_title=true&count_private=true">
+  <img src="https://readme.chuishen.xyz/api?username=ChuishenX&rank_icon=percentile&count_private=true" /><br>
+  <img src="https://readme.chuishen.xyz/api?username=Lafcadia&rank_icon=percentile&count_private=true" /><br>
+  <img src="https://readme.chuishen.xyz/api/top-langs/?username=Lafcadia&hide_title=true&count_private=true">
 </div>
