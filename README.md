@@ -32,7 +32,7 @@ Love of My Life:
 ## 🛠 Team OblivionOcean
 [Team OblivionOcean](https://github.com/OblivionOcean) (also known as 玄云海 in Chinese), is a developer team founded by me and [Fgaoxing](https://github.com/Fgaoxing/) in 2022.
 
-We have created many wonderful projects such as [Xelsior](https://github.com/OblivionOcean/Xelsior) (formerly known as "NewPad")
+We have created many wonderful projects such as [Xelsior](https://github.com/OblivionOcean/Xelsior) (formerly known as "NewPad").
 
 ## 🏆 GitHub Profile Trophy
 
@@ -45,5 +45,5 @@ We have created many wonderful projects such as [Xelsior](https://github.com/Obl
 <div align="center">
   <a href="https://github.com/Lafcadia"><img src="https://readme.chuishen.xyz/api?username=ChuishenX&rank_icon=percentile&count_private=true" /></a><br>
   <a href="https://github.com/Lafcadia"><img src="https://readme.chuishen.xyz/api?username=Lafcadia&rank_icon=percentile&count_private=true" /></a><br>
-  <a href="https://github.com/Lafcadia"><img src="https://readme.chuishen.xyz/api/top-langs/?username=Lafcadia&hide_title=true&count_private=true"></a>
+  <a href="https://github.com/Lafcadia"><img src="https://readme.chuishen.xyz/api/top-langs/?username=Lafcadia&count_private=true"></a>
 </div>
