@@ -36,7 +36,7 @@ We have created many wonderful projects such as [Xelsior](https://github.com/Obl
 
 ## 🏆 GitHub Profile Trophy
 
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_black">
+<a href="https://github.com/Lafcadia">
   <img width="900" src="https://github-profile-trophy.vercel.app/?username=Lafcadia&column=10"/>
 </a>
 
