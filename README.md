@@ -23,11 +23,11 @@ My closest colleagues are [@Zhiro](https://github.com/zzhiro/) and [@Fgaoxing](h
 My Favoured License: MIT License & [LGBTQIA-LICENSE](https://github.com/mis1042/LGBTQIA-LICENSE).
 
 Love of My Life: 
-  - 📕 Italo Calvino's Novels
-  - 📜 Grant Morrison's Comics
-  - 💻 Programming
+  - 📕 Italo Calvino's Fictions
+  - 📜 Grant Morrison's Graphic Novels
+  - 💻 Computer Science
   - 🖊  Creative Writing
-  - 🎵 Music of ZUN (Touhou Project)
+  - 🎵 Eastern Project (Touhou Project)
 
 ## 🛠 Team OblivionOcean
 [Team OblivionOcean](https://github.com/OblivionOcean) (also known as "玄云海工作室" in Chinese), is a developer team founded by me and [Fgaoxing](https://github.com/Fgaoxing/) in 2022.
