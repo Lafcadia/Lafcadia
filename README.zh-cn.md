@@ -1,4 +1,4 @@
-[English](https://github.com/Lafcadia/Lafcadia/blob/main/README.md)
+[English](https://github.com/Lafcadia/Lafcadia/blob/main/README.md) [简体中文](https://github.com/Lafcadia/Lafcadia/blob/main/README.zh-tw.md)
 
 ## 👋 关于
 
