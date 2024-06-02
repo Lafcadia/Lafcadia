@@ -18,7 +18,7 @@ My closest colleagues are [@Zhiro](https://github.com/zzhiro/) and [@Fgaoxing](h
 
 📧 E-mail: 
   - chuishenx@oblivionocean.top (Public, Official)
-  - zzx0402zzx@foxmail.com (Private, Personal)
+  - zzx2y@qq.com (Private, Personal)
 
 My Favoured License: MIT License & [LGBTQIA-LICENSE](https://github.com/mis1042/LGBTQIA-LICENSE).
 
