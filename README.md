@@ -27,7 +27,7 @@ Love of My Life:
   - 📜 Grant Morrison's Graphic Novels
   - 💻 Computer Science
   - 🖊  Creative Writing
-  - 🎵 Eastern Project (Touhou Project)
+  - 🎵 Eastern Music (Touhou Project)
 
 ## 🛠 Team OblivionOcean
 [Team OblivionOcean](https://github.com/OblivionOcean) (also known as "玄云海工作室" in Chinese), is a developer team founded by me and [Fgaoxing](https://github.com/Fgaoxing/) in 2022.
