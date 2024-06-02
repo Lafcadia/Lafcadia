@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/Killing-High_School-red)
 ![](https://komarev.com/ghpvc/?username=Lafcadia)
 
-<a href="https://github.com/Lafcadia/Lafcadia/blob/main/README.cn.md" target="_black">简体中文 (Simplified Chinese)</a>
+<a href="https://github.com/Lafcadia/Lafcadia/blob/main/README.cn.md" target="_black">简体中文 (Simplified Chinese)</a> <a href="https://github.com/Lafcadia/Lafcadia/blob/main/README.cn.md" target="_black">繁体中文 (Traditional Chinese)</a>
 
 ## 👋 About Me
 
