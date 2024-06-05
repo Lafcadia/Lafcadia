@@ -60,4 +60,4 @@ In 2022, I rebuilt the blog, and the domain is still used today. I met [Fgaoxing
 
 In 2023, I entered Hangzhou Foreign Language School. I also won the second prize in the VEX Robot Asia Open with the HFLS team.
 
-In 2024, I joined the Tianji Literary Society and served as a website administrator and author. I also created this blog as an English counterpart of the Chinese one.
+In 2024, I joined the Tianji Literary Society and served as a website administrator and author. I also created an English blog as an English counterpart of the Chinese one.
