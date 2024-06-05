@@ -10,7 +10,7 @@
 
 (Please don't mind if my English is broken as English is my second language.)
 
-Lafcadia is my current screen name (formerly ChuishenX, also known as Chuishen Qiusha ("吹神求杀")), the current name is taken from the legendary writer Lafcadio Hearn. Learning in a foreign language School as a senior high student, I'm now the co-leader and president of [Team OblivionOcean](https://github.com/OblivionOcean). I also have a [personal blog](https://chuishen.xyz) based on Hexo where I post my "work". I'm also openly bisexual. Most of my programming work is open-sourced and I published most on GitHub.
+Lafcadia is my current screen name (formerly ChuishenX, also known as Chuishen Qiusha ("吹神求杀")), the current name is taken from the legendary writer Lafcadio Hearn. Learning in a foreign language School as a senior high student, I'm now the co-leader and president of [Team OblivionOcean](https://github.com/OblivionOcean). I also have a [personal blog](https://chuishen.xyz) based on Hexo where I post my "work". I'm also [openly bisexual](https://github.com/LGBT-CN/LGBTQIA-In-China#:~:text=%E5%BE%90%E5%B0%8F%E6%B6%9B-,Lafcadia,-huan_kong). Most of my programming work is open-sourced and I published most on GitHub.
 
 Due to an accident with 2FA, my original account [ChuishenX](https://github.com/ChuishenX/) is no longer used — however, most of the valuable content is transferred to this account.
 
@@ -52,7 +52,7 @@ We have created many wonderful projects such as [Xelsior](https://github.com/Obl
 
 Before 2019, I met [TuTu](https://www.tutime.cn/) online. I joined a little-known writing group (Xingluo Academy (whose website was written by me and I believe that it has stopped working for a long time)), and I suppose that the former members have forgotten it.
 
-In 2019, I started to build my first blog (It no longer works), the URL was [https://chuishen.cf/](https://chuishen.cf/). I just started using Hexo, and the only project I could think of at that time was ["Du"](https://github.com/Lafcadia/Du).
+In 2019, I started to build my first blog (It no longer works), the domain was [chuishen.cf](https://chuishen.cf/). I just started using Hexo, and the only project I could think of at that time was ["Du"](https://github.com/Lafcadia/Du).
 
 In 2020-2021, due to some personal issues, I quit the Internet.
 
