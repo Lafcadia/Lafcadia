@@ -23,8 +23,8 @@ My closest colleagues are [Zhiro](https://github.com/zzhiro/) and [Fgaoxing](htt
 My Favoured License: MIT License & [LGBTQIA-LICENSE](https://github.com/mis1042/LGBTQIA-LICENSE).
 
 Love of My Life: 
-  - 📕 Italo Calvino's Fictions
-  - 📜 Grant Morrison's Graphic Novels
+  - 📕 Italo Calvino & Wang Xiaobo's Fictions
+  - 📜 Grant Morrison & Frank Quitely's Graphic Novels
   - 💻 Computer Science
   - 🖊  Creative Writing
   - 🎵 Eastern Music (Touhou Project)
@@ -50,7 +50,7 @@ We have created many wonderful projects such as [Xelsior](https://github.com/Obl
 
 ## Brief History
 
-Before 2019, I met [Zhiro](https://www.tutime.cn/) (formerly known as Tutu) online. I joined a little-known writing group (Xingluo Academy (whose website was written by me and I believe that it has stopped working for a long time)), and I suppose that the former members have forgotten it.
+Before 2019, I met [Zhiro](https://www.zzzzhi.com/) (formerly known as Tutu) online. I joined a little-known writing group (Xingluo Academy (whose website was written by me and I believe that it has stopped working for a long time)), and I suppose that the former members have forgotten it.
 
 In 2019, I started to build my first blog (It no longer works), and the domain was [chuishen.cf](https://chuishen.cf/). I just started using Hexo, and the only project I could think of at that time was ["Du"](https://github.com/Lafcadia/Du).
 
