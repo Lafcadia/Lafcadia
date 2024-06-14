@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Black+Ops+One&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&multiline=true&random=false&width=300&height=80&lines=Learn+to+become+INVISIBLE.;I+am+who+that+is+not.)](https://git.io/typing-svg)
 <br>
 ![Static Badge](https://img.shields.io/badge/Into-Oblivion-green)
-![Static Badge](https://img.shields.io/badge/Killing-High_School-red)
 ![](https://komarev.com/ghpvc/?username=Lafcadia)
 
 <a href="https://github.com/Lafcadia/Lafcadia/blob/main/README.cn.md" target="_black">简体中文 (Simplified Chinese)</a> <a href="https://github.com/Lafcadia/Lafcadia/blob/main/README.cn.md" target="_black">繁体中文 (Traditional Chinese)</a>
