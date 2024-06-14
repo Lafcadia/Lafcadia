@@ -8,13 +8,11 @@
 
 ## 👋 About Me
 
-(Please don't mind if my English is broken as English is my second language.)
-
-Lafcadia is my current screen name (formerly [ChuishenX](https://github.com/ChuishenX/), also known as Chuishen Qiusha ("吹神求杀")), the current name is taken from the legendary writer Lafcadio Hearn. Learning in a foreign language School as a senior high student, I'm now the co-leader and president of [Team OblivionOcean](https://github.com/OblivionOcean). I also have a [personal blog](https://chuishen.xyz) based on Hexo where I post my "work". Most of my programming work is open-sourced and I published most on GitHub.
+Lafcadia is my current screen name (formerly [ChuishenX](https://github.com/ChuishenX/), also known as Chuishen Qiusha ("吹神求杀")), which is taken from the legendary writer Lafcadio Hearn. Learning in a foreign language School as a senior high student, I'm now the co-leader and president of [Team OblivionOcean](https://github.com/OblivionOcean). I also have a [personal blog](https://chuishen.xyz) based on Hexo where I post my "work". Most of my programming work is open-sourced, and I published most on GitHub.
 
 Due to an accident with 2FA, my original account [ChuishenX](https://github.com/ChuishenX/) is no longer used — however, most of the valuable content is transferred to this account.
 
-My closest colleagues are [Zhiro](https://github.com/zzhiro/) and [Fgaoxing](https://github.com/Fgaoxing/). I met Zhiro online for the first time in 2019 when I was just a pupil working for him in his studio. I helped him to deploy his first blog. In 2022, he introduced me to Fgaoxing and we co-created Team OblivionOcean.
+My closest colleagues are [Zhiro](https://github.com/zzhiro/) and [Fgaoxing](https://github.com/Fgaoxing/). I met Zhiro online for the first time in 2019 when I was just a pupil working for him in his studio. I helped him to deploy his first blog. In 2022, he introduced me to Fgaoxing, and we co-created Team OblivionOcean.
 
 📧 E-mail: 
   - chuishenx@oblivionocean.top (Public, Official)
@@ -55,7 +53,7 @@ In 2019, I started to build my first blog (It no longer works), and the domain w
 
 In 2020-2021, due to some personal issues, I quit the Internet.
 
-In 2022, I rebuilt the blog, and the domain is still used today. I met [Fgaoxing](https://www.yt-blog.top/) online. I joined [TongStarGe](https://github.com/tongstarge), which has sadly stopped operating, established [Team OblivionOcean](https://github.com/OblivionOcean/) and became the president of the team. 
+In 2022, I rebuilt the blog. I met [Fgaoxing](https://www.yt-blog.top/) for the first time online. I joined [TongStarGe](https://github.com/tongstarge), which has sadly stopped operating, established [Team OblivionOcean](https://github.com/OblivionOcean/) and became the president of the team. 
 
 In September 2023, I entered [Hangzhou Foreign Languages School](http://www.chinahw.net/html_en/template/english.html). I also won the second prize in the VEX Robot Asia Open with the HFLS team.
 
