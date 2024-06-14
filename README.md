@@ -49,14 +49,14 @@ We have created many wonderful projects such as [Xelsior](https://github.com/Obl
 
 ## Brief History
 
-Before 2019, I met [Zhiro](https://www.zzzzhi.com/) (formerly known as Tutu) online. I joined a little-known writing group (Xingluo Academy (whose website was written by me and I believe that it has stopped working for a long time)), and I suppose that the former members have forgotten it.
+Before 2019, I met [Zhiro](https://www.zzzzhi.com/) (formerly known as Tutu) online. I joined a little-known writing group (Xingluo Academy (whose website I wrote and believe it has stopped working for a long time)), and the former members have forgotten it.
 
 In 2019, I started to build my first blog (It no longer works), and the domain was [chuishen.cf](https://chuishen.cf/). I just started using Hexo, and the only project I could think of at that time was ["Du"](https://github.com/Lafcadia/Du).
 
 In 2020-2021, due to some personal issues, I quit the Internet.
 
-In 2022, I rebuilt the blog, and the domain is still used today. I met [Fgaoxing](https://www.yt-blog.top/) online. I joined [TongStarGe](https://github.com/tongstarge), which has sadly stopped operating, established [Team OblivionOcean](https://github.com/OblivionOcean/) and became the president. 
+In 2022, I rebuilt the blog, and the domain is still used today. I met [Fgaoxing](https://www.yt-blog.top/) online. I joined [TongStarGe](https://github.com/tongstarge), which has sadly stopped operating, established [Team OblivionOcean](https://github.com/OblivionOcean/) and became the president of the team. 
 
-In 2023, I entered Hangzhou Foreign Language School. I also won the second prize in the VEX Robot Asia Open with the HFLS team.
+In September 2023, I entered [Hangzhou Foreign Languages School](http://www.chinahw.net/html_en/template/english.html). I also won the second prize in the VEX Robot Asia Open with the HFLS team.
 
-In 2024, I joined the Tianji Literary Society and served as a website administrator and author. I also created an English blog as an English counterpart of the Chinese one.
+In June 2024, I formally joined the [Tianji Literary Society](https://www.tjwxs.top/) and served the society as a website administrator and author. I also created an English blog as an English counterpart of the Chinese one, which is still in the experimental stage. I was also invited to join the [Garbage Human Studio](https://github.com/GarbageHumanStudio) (GHS).
