@@ -40,7 +40,7 @@ We have created many wonderful projects such as [Xelsior](https://github.com/Obl
 ## 🔢 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Lafcadia"><img src="https://readme.chuishen.xyz/api?username=Lafcadia&rank_icon=percentile&count_private=true" width="500" /></a><br>
+  <a href="https://github.com/Lafcadia"><img src="https://readme.chuishen.xyz/api?username=Lafcadia&rank_icon=percentile&count_private=false" width="500" /></a><br>
   <a href="https://github.com/Lafcadia"><img src="https://readme.chuishen.xyz/api/top-langs/?username=Lafcadia&count_private=true" width="500"></a>
 </div>
 
