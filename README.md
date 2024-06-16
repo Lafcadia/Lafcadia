@@ -54,6 +54,6 @@ In 2020-2021, due to some personal issues, I quit the Internet.
 
 In 2022, I rebuilt the blog. I met [Fgaoxing](https://www.yt-blog.top/) for the first time online. I joined [TongStarGe](https://github.com/tongstarge), which has sadly stopped operating, established [Team OblivionOcean](https://github.com/OblivionOcean/) and became the president of the team. 
 
-In September 2023, I entered [Hangzhou Foreign Languages School](http://www.chinahw.net/html_en/template/english.html). I also won the second prize in the VEX Robot Asia Open with the HFLS team.
+In September 2023, I entered [Hangzhou Foreign Languages School](http://www.chinahw.net/html_en/template/english.html). I also won the second prize in the VEX Robot Asia Open with the HFLS Robotics team. I joined the [Tianji Literary Society](https://www.tjwxs.top/) informally in March 2024.
 
 In June 2024, I formally joined the [Tianji Literary Society](https://www.tjwxs.top/) and served the society as a website administrator and author. I also created an English blog as an English counterpart of the Chinese one, which is still experimental. I was also invited to join the [Garbage Human Studio](https://github.com/GarbageHumanStudio) (GHS) whose leader is my protege - [Mystic-Stars](https://github.com/Mystic-Stars).
