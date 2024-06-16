@@ -56,4 +56,4 @@ In 2022, I rebuilt the blog. I met [Fgaoxing](https://www.yt-blog.top/) for the 
 
 In September 2023, I entered [Hangzhou Foreign Languages School](http://www.chinahw.net/html_en/template/english.html). I also won the second prize in the VEX Robot Asia Open with the HFLS team.
 
-In June 2024, I formally joined the [Tianji Literary Society](https://www.tjwxs.top/) and served the society as a website administrator and author. I also created an English blog as an English counterpart of the Chinese one, which is still experimental. I was also invited to join the [Garbage Human Studio](https://github.com/GarbageHumanStudio) (GHS).
+In June 2024, I formally joined the [Tianji Literary Society](https://www.tjwxs.top/) and served the society as a website administrator and author. I also created an English blog as an English counterpart of the Chinese one, which is still experimental. I was also invited to join the [Garbage Human Studio](https://github.com/GarbageHumanStudio) (GHS) whose leader is my protege - [Mystic-Stars](https://github.com/Mystic-Stars).
