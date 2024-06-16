@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/Into-Oblivion-green)
 ![](https://komarev.com/ghpvc/?username=Lafcadia)
 
-<a href="https://github.com/Lafcadia/Lafcadia/blob/main/README.cn.md" target="_black">简体中文 (Simplified Chinese)</a> <a href="https://github.com/Lafcadia/Lafcadia/blob/main/README.cn.md" target="_black">繁体中文 (Traditional Chinese)</a>
+<a href="https://github.com/Lafcadia/Lafcadia/blob/main/README.zh-cn.md" target="_black">简体中文 (Simplified Chinese)</a> <a href="https://github.com/Lafcadia/Lafcadia/blob/main/README.zh-tw.md" target="_black">繁体中文 (Traditional Chinese)</a>
 
 ## 👋 About Me
 
