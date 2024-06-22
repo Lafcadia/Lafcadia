@@ -17,7 +17,7 @@ My closest colleagues are [Zhiro](https://github.com/zzhiro/) and [Fgaoxing](htt
   - chuishenx@oblivionocean.top (Public, Official)
   - zzx2y@qq.com (Private, Personal)
 
-My Favoured License: MIT License & [LGBTQIA-LICENSE](https://github.com/mis1042/LGBTQIA-LICENSE).
+My Favoured License: MIT License.
 
 Love of My Life: 
   - 📕 Italo Calvino & Wang Xiaobo's Fictions
